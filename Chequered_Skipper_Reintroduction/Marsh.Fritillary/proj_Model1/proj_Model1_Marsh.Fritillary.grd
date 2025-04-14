@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2022-03-28 16:53:34
+[georeference]
+nrows=196
+ncols=143
+xmin=90000
+ymin=621000
+xmax=233000
+ymax=817000
+projection=+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +units=m +no_defs
+[data]
+datatype=INT2S
+byteorder=little
+nbands=42
+bandorder=BIL
+minvalue=4:70:0:0:0:108:71:1:85:0:0:1:98:91:7:87:0:0:0:113:54:1:84:0:0:0:115:111:4:86:0:0:0:101:65:3:71:0:0:0:108:88
+maxvalue=594:760:715:970:891:742:830:670:688:682:956:853:643:360:618:676:812:974:825:800:885:627:687:739:930:910:800:429:624:718:983:980:838:655:914:640:760:892:986:852:864:819
+nodatavalue=-9999
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=Marsh.Fritillary_AllData_RUN1_GLM:Marsh.Fritillary_AllData_RUN1_GBM:Marsh.Fritillary_AllData_RUN1_GAM:Marsh.Fritillary_AllData_RUN1_RF:Marsh.Fritillary_AllData_RUN1_MARS:Marsh.Fritillary_AllData_RUN1_CTA:Marsh.Fritillary_AllData_RUN1_ANN:Marsh.Fritillary_AllData_RUN2_GLM:Marsh.Fritillary_AllData_RUN2_GBM:Marsh.Fritillary_AllData_RUN2_GAM:Marsh.Fritillary_AllData_RUN2_RF:Marsh.Fritillary_AllData_RUN2_MARS:Marsh.Fritillary_AllData_RUN2_CTA:Marsh.Fritillary_AllData_RUN2_ANN:Marsh.Fritillary_AllData_RUN3_GLM:Marsh.Fritillary_AllData_RUN3_GBM:Marsh.Fritillary_AllData_RUN3_GAM:Marsh.Fritillary_AllData_RUN3_RF:Marsh.Fritillary_AllData_RUN3_MARS:Marsh.Fritillary_AllData_RUN3_CTA:Marsh.Fritillary_AllData_RUN3_ANN:Marsh.Fritillary_AllData_RUN4_GLM:Marsh.Fritillary_AllData_RUN4_GBM:Marsh.Fritillary_AllData_RUN4_GAM:Marsh.Fritillary_AllData_RUN4_RF:Marsh.Fritillary_AllData_RUN4_MARS:Marsh.Fritillary_AllData_RUN4_CTA:Marsh.Fritillary_AllData_RUN4_ANN:Marsh.Fritillary_AllData_RUN5_GLM:Marsh.Fritillary_AllData_RUN5_GBM:Marsh.Fritillary_AllData_RUN5_GAM:Marsh.Fritillary_AllData_RUN5_RF:Marsh.Fritillary_AllData_RUN5_MARS:Marsh.Fritillary_AllData_RUN5_CTA:Marsh.Fritillary_AllData_RUN5_ANN:Marsh.Fritillary_AllData_Full_GLM:Marsh.Fritillary_AllData_Full_GBM:Marsh.Fritillary_AllData_Full_GAM:Marsh.Fritillary_AllData_Full_RF:Marsh.Fritillary_AllData_Full_MARS:Marsh.Fritillary_AllData_Full_CTA:Marsh.Fritillary_AllData_Full_ANN
