@@ -1,0 +1,11 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Anguilla anguilla|NBNSYS0000188599|European Eel|Animalia|Anguillidae","Anguilla anguilla","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Actinopterygii","Anguilliformes","Anguillidae","Anguilla","Anguilla anguilla",,"1",""
+"Boloria selene|NHMSYS0021143547|Small Pearl-bordered Fritillary|Animalia|Nymphalidae","Boloria selene","([Denis & Schiffermüller], 1775)",,"SPECIES","Animalia","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Boloria","Boloria selene",,"2",""
+"Bufo bufo|NHMSYS0000080159|Common Toad|Animalia|Bufonidae","Bufo bufo","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Amphibia","Anura","Bufonidae","Bufo","Bufo bufo",,"5",""
+"Coenonympha pamphilus|NHMSYS0000519083|Small Heath|Animalia|Nymphalidae","Coenonympha pamphilus","(Linnaeus, 1758)",,"SPECIES","Animalia","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Coenonympha","Coenonympha pamphilus",,"4",""
+"Cuculus canorus|NHMSYS0000530324|Cuckoo|Animalia|Cuculidae","Cuculus canorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Cuculiformes","Cuculidae","Cuculus","Cuculus canorus",,"4",""
+"Numenius arquata|NBNSYS0000000032|Curlew|Animalia|Scolopacidae","Numenius arquata","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Numenius","Numenius arquata",,"1",""
+"Passer domesticus|NHMSYS0000530537|House Sparrow|Animalia|Passeridae","Passer domesticus","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Passeridae","Passer","Passer domesticus",,"1",""
+"Salmo trutta|NBNSYS0000188607|Brown/Sea Trout|Animalia|Salmonidae","Salmo trutta","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Actinopterygii","Salmoniformes","Salmonidae","Salmo","Salmo trutta",,"1",""
+"Sciurus vulgaris|NBNSYS0000005108|Eurasian Red Squirrel|Animalia|Sciuridae","Sciurus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Mammalia","Rodentia","Sciuridae","Sciurus","Sciurus vulgaris",,"3",""
+"Sorbus arranensis|NHMSYS0000463796|Arran Whitebeam|Plantae|Rosaceae","Sorbus arranensis","Hedl.",,"SPECIES","Plantae","Tracheophyta","Magnoliopsida","Rosales","Rosaceae","Sorbus","Sorbus arranensis",,"8",""

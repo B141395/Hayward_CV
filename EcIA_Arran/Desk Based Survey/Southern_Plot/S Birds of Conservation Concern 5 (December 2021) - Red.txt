@@ -1,0 +1,7 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Cuculus canorus|NHMSYS0000530324|Cuckoo|Animalia|Cuculidae","Cuculus canorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Cuculiformes","Cuculidae","Cuculus","Cuculus canorus",,"4",""
+"Delichon urbicum|NHMSYS0000530329|House Martin|Animalia|Hirundinidae","Delichon urbicum","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Hirundinidae","Delichon","Delichon urbicum",,"3",""
+"Larus argentatus|NBNSYS0000000038|Herring Gull|Animalia|Laridae","Larus argentatus","Pontoppidan, 1763",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Laridae","Larus","Larus argentatus",,"2",""
+"Numenius arquata|NBNSYS0000000032|Curlew|Animalia|Scolopacidae","Numenius arquata","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Numenius","Numenius arquata",,"1",""
+"Passer domesticus|NHMSYS0000530537|House Sparrow|Animalia|Passeridae","Passer domesticus","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Passeridae","Passer","Passer domesticus",,"1",""
+"Sturnus vulgaris|NHMSYS0000530628|Starling|Animalia|Sturnidae","Sturnus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Sturnidae","Sturnus","Sturnus vulgaris",,"1",""

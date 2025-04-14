@@ -1,0 +1,4 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Cuculus canorus|NHMSYS0000530324|Cuckoo|Animalia|Cuculidae","Cuculus canorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Cuculiformes","Cuculidae","Cuculus","Cuculus canorus",,"9",""
+"Passer domesticus|NHMSYS0000530537|House Sparrow|Animalia|Passeridae","Passer domesticus","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Passeridae","Passer","Passer domesticus",,"5",""
+"Sciurus vulgaris|NBNSYS0000005108|Eurasian Red Squirrel|Animalia|Sciuridae","Sciurus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Mammalia","Rodentia","Sciuridae","Sciurus","Sciurus vulgaris",,"3",""

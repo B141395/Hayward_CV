@@ -1,0 +1,12 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Charadrius hiaticula|NBNSYS0000000028|Ringed Plover|Animalia|Charadriidae","Charadrius hiaticula","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Charadrius","Charadrius hiaticula",,"2",""
+"Cuculus canorus|NHMSYS0000530324|Cuckoo|Animalia|Cuculidae","Cuculus canorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Cuculiformes","Cuculidae","Cuculus","Cuculus canorus",,"9",""
+"Delichon urbicum|NHMSYS0000530329|House Martin|Animalia|Hirundinidae","Delichon urbicum","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Hirundinidae","Delichon","Delichon urbicum",,"7",""
+"Gulosus aristotelis|NHMSYS0021537828|Shag|Animalia|Phalacrocoracidae","Gulosus aristotelis",,,"SPECIES","Animalia","Chordata","Aves","Pelecaniformes","Phalacrocoracidae","Gulosus","Gulosus aristotelis",,"5",""
+"Larus argentatus|NBNSYS0000000038|Herring Gull|Animalia|Laridae","Larus argentatus","Pontoppidan, 1763",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Laridae","Larus","Larus argentatus",,"5",""
+"Linaria cannabina|NHMSYS0021004282|Linnet|Animalia|Fringillidae","Linaria cannabina","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Fringillidae","Linaria","Linaria cannabina",,"1",""
+"Passer domesticus|NHMSYS0000530537|House Sparrow|Animalia|Passeridae","Passer domesticus","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Passeridae","Passer","Passer domesticus",,"5",""
+"Rissa tridactyla|NBNSYS0000000039|Kittiwake|Animalia|Laridae","Rissa tridactyla","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Charadriiformes","Laridae","Rissa","Rissa tridactyla",,"1",""
+"Saxicola rubetra|NHMSYS0000530590|Whinchat|Animalia|Muscicapidae","Saxicola rubetra","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Muscicapidae","Saxicola","Saxicola rubetra",,"2",""
+"Sturnus vulgaris|NHMSYS0000530628|Starling|Animalia|Sturnidae","Sturnus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Sturnidae","Sturnus","Sturnus vulgaris",,"4",""
+"Turdus viscivorus|NHMSYS0000530682|Mistle Thrush|Animalia|Turdidae","Turdus viscivorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Turdidae","Turdus","Turdus viscivorus",,"2",""

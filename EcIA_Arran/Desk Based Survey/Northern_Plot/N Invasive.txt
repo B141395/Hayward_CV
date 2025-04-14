@@ -1,0 +1,8 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Cuculus canorus|NHMSYS0000530324|Cuckoo|Animalia|Cuculidae","Cuculus canorus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Cuculiformes","Cuculidae","Cuculus","Cuculus canorus",,"9",""
+"Falco tinnunculus|NHMSYS0000530358|Kestrel|Animalia|Falconidae","Falco tinnunculus","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Aves","Falconiformes","Falconidae","Falco","Falco tinnunculus",,"4",""
+"Linaria cannabina|NHMSYS0021004282|Linnet|Animalia|Fringillidae","Linaria cannabina","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Fringillidae","Linaria","Linaria cannabina",,"1",""
+"Passer domesticus|NHMSYS0000530537|House Sparrow|Animalia|Passeridae","Passer domesticus","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Passeridae","Passer","Passer domesticus",,"5",""
+"Saxicola rubetra|NHMSYS0000530590|Whinchat|Animalia|Muscicapidae","Saxicola rubetra","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Muscicapidae","Saxicola","Saxicola rubetra",,"2",""
+"Sciurus vulgaris|NBNSYS0000005108|Eurasian Red Squirrel|Animalia|Sciuridae","Sciurus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Mammalia","Rodentia","Sciuridae","Sciurus","Sciurus vulgaris",,"3",""
+"Turdus philomelos|NHMSYS0000530678|Song Thrush|Animalia|Turdidae","Turdus philomelos","Brehm, CL, 1831",,"SPECIES","Animalia","Chordata","Aves","Passeriformes","Turdidae","Turdus","Turdus philomelos",,"5",""

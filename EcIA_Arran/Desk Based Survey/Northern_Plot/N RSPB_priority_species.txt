@@ -1,0 +1,3 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Hyacinthoides non-scripta|NBNSYS0000002185|Bluebell|Plantae|Asparagaceae","Hyacinthoides non-scripta","(L.) Chouard ex Rothm.",,"SPECIES","Plantae","Tracheophyta","Magnoliopsida","Asparagales","Asparagaceae","Hyacinthoides","Hyacinthoides non-scripta",,"3",""
+"Sciurus vulgaris|NBNSYS0000005108|Eurasian Red Squirrel|Animalia|Sciuridae","Sciurus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Mammalia","Rodentia","Sciuridae","Sciurus","Sciurus vulgaris",,"3",""

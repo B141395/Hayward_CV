@@ -1,0 +1,10 @@
+eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,ownerInstitutionCode
+pointN,,HumanObservation,10,10,individuals,present,Corvus cornix,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Corvus cornix,,species,MB,event,
+pointN,,HumanObservation,2,2,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,MB,event,
+pointN,,HumanObservation,2,2,individuals,present,Corvus corax,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Corvus corax,,species,MB,event,
+pointN,,HumanObservation,26,26,individuals,present,Coloeus monedula,Animalia,Chordata,Aves,Passeriformes,Corvidae,Coloeus,Coloeus monedula,,species,MB,event,
+pointN,,HumanObservation,4,4,individuals,present,Anthus pratensis,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus pratensis,,species,MB,event,
+pointS,,HumanObservation,6,6,individuals,present,Troglodytes troglodytes,Animalia,Chordata,Aves,Passeriformes,Troglogdytidae,Troglodytes,Troglodytes troglodytes,,species,AKe,event,
+pointS,,HumanObservation,4,4,individuals,present,Erithacus rubecula,Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Erithacus,Erithacus rubecula,,species,AKe,event ,
+pointS,,HumanObservation,2,2,individuals,present,Prunella modularis,Animalia,Chordata,Aves,Passeriformes,Prunellidae,Prunella,Prunella modularis,,species,AKe,event,
+pointS,,HumanObservation,2,2,individuals,present,Coloeus monedula,Animalia,Chordata,Aves,Passeriformes,Corvidae,Coloeus,Coloeus monedula,,species,AKe,event,

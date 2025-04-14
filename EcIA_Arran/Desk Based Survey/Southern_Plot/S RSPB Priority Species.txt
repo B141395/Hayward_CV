@@ -1,0 +1,6 @@
+LSID,Species Name,Taxon Concept,Taxon Rank,Kingdom,Phylum,Class,Order,Family,Genus,Vernacular Name,Number of records,Invasive
+"Anguilla anguilla|NBNSYS0000188599|European Eel|Animalia|Anguillidae","Anguilla anguilla","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Actinopterygii","Anguilliformes","Anguillidae","Anguilla","Anguilla anguilla",,"1",""
+"Boloria selene|NHMSYS0021143547|Small Pearl-bordered Fritillary|Animalia|Nymphalidae","Boloria selene","([Denis & Schiffermüller], 1775)",,"SPECIES","Animalia","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Boloria","Boloria selene",,"2",""
+"Bufo bufo|NHMSYS0000080159|Common Toad|Animalia|Bufonidae","Bufo bufo","(Linnaeus, 1758)",,"SPECIES","Animalia","Chordata","Amphibia","Anura","Bufonidae","Bufo","Bufo bufo",,"5",""
+"Hyacinthoides non-scripta|NBNSYS0000002185|Bluebell|Plantae|Asparagaceae","Hyacinthoides non-scripta","(L.) Chouard ex Rothm.",,"SPECIES","Plantae","Tracheophyta","Magnoliopsida","Asparagales","Asparagaceae","Hyacinthoides","Hyacinthoides non-scripta",,"4",""
+"Sciurus vulgaris|NBNSYS0000005108|Eurasian Red Squirrel|Animalia|Sciuridae","Sciurus vulgaris","Linnaeus, 1758",,"SPECIES","Animalia","Chordata","Mammalia","Rodentia","Sciuridae","Sciurus","Sciurus vulgaris",,"3",""
